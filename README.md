@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##### Github Stats
+#### ⚡ Github Stats
 
 ![ikuamike's github stats](https://github-readme-stats.vercel.app/api?username=ikuamike&theme=dark&show_icons=true)
