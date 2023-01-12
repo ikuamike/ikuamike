@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 #### ⚡ My Stats
 
-![ikuamike's github stats](https://github-readme-stats.vercel.app/api?username=ikuamike&theme=dark&show_icons=true)
+![ikuamike's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ikuamike&theme=dark&show_icons=true)
